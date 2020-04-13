@@ -1,0 +1,8 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  text-decoration: underline;
+  text-underline-offset: .4em;
+}
