@@ -2,8 +2,6 @@ html {
   font-family: "Open Sans", sans-serif;
   color: #000;
   background-color: #fff;
-  padding: 1rem;
-}
 
 .endbtn {
   color: #f2f2f2;
@@ -19,4 +17,21 @@ h1 {
 
 .leftunit {
   padding-left: .5rem;
+}
+
+.u {
+  border: .5rem;
+}
+
+@media only screen and (min-width: 60em) {
+  html {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: #f2f2f2;
+  }
+
+  body {
+    background-color: #fff;
+  }
+
 }
