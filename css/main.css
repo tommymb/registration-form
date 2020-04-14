@@ -5,8 +5,13 @@ html {
   padding: 1rem;
 }
 
+.endbtn {
+  color: #f2f2f2;
+}
+
 h1 {
   text-decoration: underline;
+  text-decoration-color: #f2f2f2
 }
 
 .rightunit {
