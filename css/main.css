@@ -9,7 +9,10 @@ h1 {
   text-decoration: underline;
 }
 
-.unit {
-  padding-left: .5rem;
+.rightunit {
   padding-right: .5rem;
+}
+
+.leftunit {
+  padding-left: .5rem;
 }
