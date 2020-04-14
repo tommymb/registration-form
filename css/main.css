@@ -12,17 +12,21 @@ h1 {
   text-decoration: underline;
 }
 
-body {
-  padding-right: 1rem;
-  padding-left: 1rem;
+.rightunit {
+  padding-right: .5rem;
 }
 
-legend {
-  padding-bottom: 1rem;
+.leftunit {
+  padding-left: .5rem;
 }
 
 .u {
   border: .5rem;
+}
+
+body {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 @media only screen and (min-width: 60em) {
@@ -35,14 +39,6 @@ legend {
 
   body {
     background-color: #fff;
-  }
-
-  .rightunit {
-    padding-right: .5rem;
-  }
-
-  .leftunit {
-    padding-left: .5rem;
   }
 
 }
